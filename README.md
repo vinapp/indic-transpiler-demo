@@ -31,4 +31,4 @@ Generates generate/execute the js file
 node lib/index.js examples/basic.tsmm --run (generates the js file and also executes the js file)
 ```
 
-
+Note: The base sample code is picked from https://github.com/basarat/demo-compiler
